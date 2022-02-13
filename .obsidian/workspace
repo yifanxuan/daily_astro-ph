@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "b1b9c80e892d6353",
+    "type": "split",
+    "children": [
+      {
+        "id": "b37de9f88bf0f2fd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "astroph_2022-02.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d11d9cc7db79bd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "aeb02315628a095d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b1e8cdbd2613d5c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1786df3f772feb87",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a9eb79c235ccf442",
+    "type": "split",
+    "children": [
+      {
+        "id": "c24e30bc242a2899",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da01885a115ec096",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "astroph_2022-02.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 223
+  },
+  "active": "b37de9f88bf0f2fd",
+  "lastOpenFiles": [
+    "astroph_2022-02.md",
+    "text1.md"
+  ]
+}
