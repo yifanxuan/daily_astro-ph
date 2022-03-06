@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "astroph_2022-02.md",
+            "file": "Notes_on_GR/未命名.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "astroph_2022-02.md",
+                "file": "Notes_on_GR/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,10 @@
   },
   "active": "b37de9f88bf0f2fd",
   "lastOpenFiles": [
-    "astroph_2022-02.md",
-    "README.md",
+    "Notes_on_GR/未命名.md",
+    "未命名.md",
+    "daily_astro-ph/astroph_2022-02.md",
+    "daily_astro-ph/README.md",
     "text1.md"
   ]
 }
