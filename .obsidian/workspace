@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b37de9f88bf0f2fd",
+        "id": "10394149c0b3475c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes_on_GR/未命名.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes_on_GR/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,8 +81,9 @@
     "direction": "horizontal",
     "width": 223
   },
-  "active": "b37de9f88bf0f2fd",
+  "active": "10394149c0b3475c",
   "lastOpenFiles": [
+    "A2_Kepler_astrometry_project/未命名.md",
     "Notes_on_GR/未命名.md",
     "未命名.md",
     "daily_astro-ph/astroph_2022-02.md",
