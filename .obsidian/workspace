@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A2_Kepler_astrometry_project/未命名.md",
+            "file": "daily_astro-ph/astro-ph_2022-08.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A2_Kepler_astrometry_project/未命名.md",
+                "file": "daily_astro-ph/astro-ph_2022-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,9 @@
   },
   "active": "10394149c0b3475c",
   "lastOpenFiles": [
+    "daily_astro-ph/astro-ph_2022-02.md",
+    "daily_astro-ph/astro-ph_2022-08.md",
+    "daily_astro-ph/astro-ph_2022-06.md",
     "A2_Kepler_astrometry_project/未命名.md",
     "Notes_on_GR/未命名.md",
     "未命名.md",
